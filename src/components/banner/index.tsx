@@ -17,8 +17,7 @@ export const Banner = () => {
       </p>
 
       <div className="flex lg:flex-row flex-col items-center gap-4 p-4">
-        <Button href="/" label="Entre em contato" />
-        <Button href="/" label="Ver projetos" />
+        <Button href="#contato" label="Entre em contato" />
       </div>
     </section>
   );
